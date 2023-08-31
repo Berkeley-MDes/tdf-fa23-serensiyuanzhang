@@ -2,7 +2,7 @@
 
 This week, I designed a cool phone stand made of wood with laser cutting. Check out all my progress photos.
 # Reflection #
-<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
+<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/5bd7115b68ca1f2c27650f33951112cf48403678/weekly-reports/50b96c6f69b3e9a7451447b3b5971e0.jpg">
 laser cutting process
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
 Measure the length of the phone
