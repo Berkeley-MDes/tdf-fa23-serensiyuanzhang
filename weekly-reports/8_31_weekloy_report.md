@@ -5,12 +5,13 @@ This week, I designed a cool phone stand made of wood with laser cutting. Check 
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
 laser cutting process
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
-<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
 Measure the length of the phone
-<img width="400" alt="Measure the width of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/99b333c0995ac8123797748227bbea5a140fbf7a/weekly-reports/1b7c06bef7987badcd5952dbc0bb249.jpg">
+<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
 Measure the width of the phone
-<img width="400" alt="adjust the angle of the phone holoder " src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/99b333c0995ac8123797748227bbea5a140fbf7a/weekly-reports/dda9c9ec958daa51974340b543696e8.jpg">
+<img width="400" alt="Measure the width of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/99b333c0995ac8123797748227bbea5a140fbf7a/weekly-reports/1b7c06bef7987badcd5952dbc0bb249.jpg">
 adjust the angle of the phone holoder
+<img width="400" alt="adjust the angle of the phone holoder " src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/99b333c0995ac8123797748227bbea5a140fbf7a/weekly-reports/dda9c9ec958daa51974340b543696e8.jpg">
+
 <img width="400" alt="Cool Phone Stand made of rocks" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/99b333c0995ac8123797748227bbea5a140fbf7a/weekly-reports/f5f9e964ebba003d932dc1b43fe5973.jpg">
 
 After finished the design of phone holder,
