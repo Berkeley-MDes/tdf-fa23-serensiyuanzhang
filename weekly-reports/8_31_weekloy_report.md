@@ -16,7 +16,9 @@ adjust the angle of the phone holoder
 <img width="400" alt="Cool Phone Stand made of rocks" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/99b333c0995ac8123797748227bbea5a140fbf7a/weekly-reports/f5f9e964ebba003d932dc1b43fe5973.jpg">
 
 This week, I also reviewed the usage of grasshopper, and helped my classmates understand the operating logic of the battery pack and adjust the battery.
+![dcb5eda1efcbc7fa9ac2b1457f22775](https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/assets/143054164/077627c0-af73-4858-89a5-20ebc8d9e16c)
+
 
 # Speculations #
 
-
+I think the industrial design world is rapidly being changed by artificial intelligence, and next I plan to try to use artificial intelligence tools to generate 3D products.
