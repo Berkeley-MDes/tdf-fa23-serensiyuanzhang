@@ -1,11 +1,13 @@
 # Report 2-week of 09/6/2023(week2)
 ### :star: summary: ###
 This week I reviewed **grasshopper and computational design** on Thursday class.
+
 After analysing the product I designed last week, I think it maybe a little boring for the product form, so this week I plan to reshape the model using rhino and grasshopper plugin Ameba/Millipede, which can do some **structure topology optimization**.
+
 To design a phonestand holder, it is important that its stressed structure needs to be stable as well as the form needs to be attravtive. So I want to concern both structure and form while design the cellphone stander with the computational method-- structure topology optimization.
 
 I used to do some structure topology optimization to design streamlined building：
-<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/52aa3ced63e1f3f6d3d4474000e1455f2e2fab93/Week1%20Photot/a27584c3bb8d5a0f6e4fde65c286eb54_raw.mp4">
+<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0a404eba9b5d07c0015bef1d03fb5e110d9359a7/Week1%20Photot/a27584c3bb8d5a0f6e4fde65c286eb54_raw.gif">
 
 # Report 1-week of 08/28/2023(week1)
 # Reflection #
