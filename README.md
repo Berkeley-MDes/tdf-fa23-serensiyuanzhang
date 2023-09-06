@@ -1,7 +1,7 @@
 # Report 2-week of 09/6/2023(week2)
 ### :star: summary: ###
-This week I reviewed grasshopper and computational design on Thursday class.
-After analysing the product I designed last week, I think it maybe a little boring for the product form, so this week I plan to reshape the model using rhino and grasshopper plugin Ameba/Millipede, which can do some structure topology optimization.
+This week I reviewed **grasshopper and computational design** on Thursday class.
+After analysing the product I designed last week, I think it maybe a little boring for the product form, so this week I plan to reshape the model using rhino and grasshopper plugin Ameba/Millipede, which can do some **structure topology optimization**.
 To design a phonestand holder, it is important that its stressed structure needs to be stable as well as the form needs to be attravtive. So I want to concern both structure and form while design the cellphone stander with the computational method-- structure topology optimization.
 
 I used to do some structure topology optimization to design streamlined building：
