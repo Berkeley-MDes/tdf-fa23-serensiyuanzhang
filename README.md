@@ -15,7 +15,7 @@ I used to do some structure topology optimization to design streamlined building
 + design conception
 + computational design process
 
-# Speculationa #
+# Speculations #
 
 I believe that design cellphone stand with concerning about both function and form is important in industrial design and the design process I explored represents the computational design methodology could help us improve our design. Next week I plan to try some 3D printing, I really hope I can make the prototype out and explore the influence of material to design.
 
