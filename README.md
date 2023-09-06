@@ -11,7 +11,13 @@ I used to do some structure topology optimization to design streamlined building
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0a404eba9b5d07c0015bef1d03fb5e110d9359a7/Week1%20Photot/a27584c3bb8d5a0f6e4fde65c286eb54_raw.gif">
 
 # Reflection #
-💡 TIP
++ analyse
++ design conception
++ computational design process
+
+# Speculationa #
+
+I believe that design cellphone stand with concerning about both function and form is important in industrial design and the design process I explored represents the computational design methodology could help us improve our design. Next week I plan to try some 3D printing, I really hope I can make the prototype out and explore the influence of material to design.
 
 # Report 1-week of 08/28/2023(week1)
 # Reflection #
