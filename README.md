@@ -21,6 +21,11 @@ I believe that design cellphone stand with concerning about both function and fo
 
 
 
+
+
+
+
+
 # Report 1-week of 08/28/2023(week1)
 ### :star: summary: ###
 This week, I designed a cool phone stand made of wood with laser cutting. Check out all my progress photos.
