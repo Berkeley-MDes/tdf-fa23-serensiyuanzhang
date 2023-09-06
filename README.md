@@ -105,6 +105,23 @@ I think the industrial design world is rapidly being changed by artificial intel
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
