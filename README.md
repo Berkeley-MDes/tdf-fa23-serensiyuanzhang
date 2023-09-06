@@ -19,10 +19,13 @@ I used to do some structure topology optimization to design streamlined building
 
 I believe that design cellphone stand with concerning about both function and form is important in industrial design and the design process I explored represents the computational design methodology could help us improve our design. Next week I plan to try some 3D printing, I really hope I can make the prototype out and explore the influence of material to design.
 
+
+
 # Report 1-week of 08/28/2023(week1)
-# Reflection #
+### :star: summary: ###
 This week, I designed a cool phone stand made of wood with laser cutting. Check out all my progress photos.
 
+# Reflection #
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/5bd7115b68ca1f2c27650f33951112cf48403678/weekly-reports/50b96c6f69b3e9a7451447b3b5971e0.jpg">
 laser cutting process
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0c22614380cb0fb115e46972753d3a86e283e64a/weekly-reports/1a9825dbff2976bbde20dd64c89d526.jpg">
