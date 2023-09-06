@@ -5,6 +5,7 @@ After analysing the product I designed last week, I think it maybe a little bori
 To design a phonestand holder, it is important that its stressed structure needs to be stable as well as the form needs to be attravtive. So I want to concern both structure and form while design the cellphone stander with the computational method-- structure topology optimization.
 
 I used to do some structure topology optimization to design streamlined building：
+<img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/52aa3ced63e1f3f6d3d4474000e1455f2e2fab93/Week1%20Photot/a27584c3bb8d5a0f6e4fde65c286eb54_raw.mp4">
 
 # Report 1-week of 08/28/2023(week1)
 # Reflection #
