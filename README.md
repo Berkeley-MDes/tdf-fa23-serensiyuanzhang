@@ -1,3 +1,6 @@
+# Report 2-week of 09/6/2023(week2)
+
+
 # Report 1-week of 08/28/2023(week1)
 # Reflection #
 This week, I designed a cool phone stand made of wood with laser cutting. Check out all my progress photos.
@@ -21,6 +24,9 @@ This week, I also reviewed the usage of grasshopper, and helped my classmates un
 # Speculations #
 
 I think the industrial design world is rapidly being changed by artificial intelligence, and next I plan to try to use artificial intelligence tools to generate 3D products.
+
+
+
 
 
 
