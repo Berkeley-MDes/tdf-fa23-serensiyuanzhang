@@ -1,6 +1,6 @@
 https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy4aniuMjwIA/viewform
 # Report 2-week of 09/6/2023(week2)
-### [Week1 report](weekly-reports/Week1_2023_8_30.md)
+### [Week2 report](weekly-reports/Week1_2023_8_30.md)
 ### :star: summary: ###
 This week I reviewed **grasshopper and computational design** on Thursday class.
 
