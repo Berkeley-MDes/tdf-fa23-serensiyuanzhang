@@ -20,6 +20,7 @@ This week I tried to **build my minime and design three experiments**to test the
 # Process #
 In the first experiment, I tried different prompts and observed the conversation results of the agent. I also experimented with various temperatures to understand how different prompts and parameters affect the outcomes.
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+--
 In the second experiment, I experimented with different roles and, through testing the responses, observed the differences between the 'instruction' and 'user' roles as parameters. By changing the role, it's possible to alter the speaking habits and language style of the agent.
 <img width="400" alt="Measure the length of the phone" src="">
 In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
