@@ -5,12 +5,10 @@ In the end, I achieved the goal I initially set out to accomplish. I built an ag
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/a5f1a964b27e8d98c2e90e3f59a41dc73980c3c1/week9_10/7.jpg">
 
----
 # Process #
 In the process of building the knowledge set, I initially uploaded the complete project report. However, due to platform settings, my weekly reports were categorized by page numbers, which resulted in the construction of my knowledge set. As a result, my agent did not understand my corpus, leading to absurd and garbled responses during my conversations with it.
 However, through my classification and organization of the knowledge base, after two attempts, I was able to resolve this issue.
 
----
 # Reflection #
 Through this assignment, my understanding of agent-related knowledge has increased, and I have also learned more about the fundamental concepts of large models. However, regarding the ZeroWidth platform, I still believe that it could be designed to be more user-friendly from various aspects, including interface design.
 
