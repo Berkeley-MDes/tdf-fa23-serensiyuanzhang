@@ -26,6 +26,7 @@ In the second experiment, I experimented with different roles and, through testi
 --
 In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+--
 # Reflection #
 Through the three experiments this week, I have deepened my understanding of concepts related to large models and gained a better understanding of the significance of prompts in large models. Prompt engineering holds great potential, and as designers, we should learn how to better utilize them. With advancements in tools, we can empower our designs.
 
