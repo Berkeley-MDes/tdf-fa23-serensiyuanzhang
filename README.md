@@ -54,23 +54,87 @@ Through the three experiments this week, I have deepened my understanding of con
 I'm very excited about this platform. I believe it represents a practical innovation in the application of natural language large models, and I'm looking forward to seeing it being used in our everyday lives as soon as possible.
 
 ---
-# Report 8-week of 10/19/2023(week2)
+# Report 8-week of 10/19/2023(week8)
 
-# Report 7-week of 10/12/2023(week2)
+# Report 7-week of 10/12/2023(week7)
 
-# Report 6-week of 10/5/2023(week2)
+# Report 6-week of 10/5/2023(week6)
 
 
 
-# Report 5-week of 09/28/2023(week2)
+# Report 5-week of 09/28/2023(week5)
 
-# Report 4-week of 09/21/2023(week2)
 
-# Report 3-week of 09/14/2023(week2)
+# Report 4-week of 09/21/2023(week4)
+
+This week I tried to complete the design of my phone stand and tried to enhance my Grasshopper program to adjust the form of my phone stand. During this week, I learned how to 3D print and bring my conceptual ideas into practical realization.
+In the end, I adjusted my phone stand design based on the dimensions of my own phone and the angle and posture I use when viewing the phone screen. Additionally, by using Grasshopper plugins, I improved the aesthetics of my phone stand.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+# Process #
+This week I developed my own grasshopper file based on the scale of my own phone and my own need. And then I used grasshopper plug-in Lunchbox to develop my design. Finally, I tried my best to print it out.
+The first step is to develop the grasshopper file from the class and I made a Mindmap in Figma. The following step is “construct plane----construct cube----construct sphere----boolean operation----brep----add phone object----final brep.”
+
+I choose the challenge level as 02-Platypusz. I think what was difficult for me in this task was not how to learn grasshopper, because I already had relevant experience with it during my undergraduate studies. The hard part is how to use plug-ins to optimize my designs. And use it to meet my user needs. So I chose this level of challenge, which is in the middle, not that easy and not that difficult.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+
+---
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+
+---
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+---
+
+# Reflection #
+ In this week, the challenge was how to 3D print the prototype of my design. At first, I tried the printer on the first floor, but unfortunately, the nozzle of this printer was broken, so that it could not print the material reasonably, which ultimately delayed the progress of my job. Cody provided me with some help, but the machine never worked very well.
+ 
+ <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+---
+
+ I thought I could no longer present it until I found some printers and untimaker on the second floor of Jacob, and completed its training, 
+successfully adjusted the printer's machine temperature, and spent 7 hours setting up my mobile phone holder. The prototype was printed. That is awesome!
+ 
+ <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+---
+
+# Speculations #
+
+I hope to have more hands-on opportunities in the future to bring the concepts in my mind into real implementation.
+
+
+# Report 3-week of 09/14/2023(week3)
+
+This week at first I plan to use the grasshopper plug-in to improve my design for cellphone holder. Ameba, amoeba, Chinese transliteration is amoeba, so it is also called amoeba. It is a single-celled protozoa, made up of just one cell, that can change its body shape as needed. Xie Yimin Technology, a Chinese team led by Academician Xie Yimin, developed the topology optimization design software Ameba based on the bidirectional progressive structural optimization method (BESO) proposed by him. Users can apply mechanical and other boundary conditions to the initial design area according to design needs, and optimize it through software calculations. When solving, the design area will evolve into various shapes like an amoeba, and finally obtain a form with reasonable force transmission and bionics.However, after several attempts, I found that although the optimized mobile phone holder met the mechanical requirements, it was not beautiful and did 
+not meet my daily usage habits. So after two days of trying, I gave up on this plan.
+
+From an aesthetic point of view, I tried another plug-in for grasshopper, LunchBox. LunchBox is a plug-in for Grasshopper for exploring mathematical shapes, paneling, structures, and workflow. I mainly used these five button, Diamond Panels, Triangle Panels B, Skewed Quads, 3D Supershape, Diamond Grid to build my cellphone holder.
+
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+---
+
+# Reflection #
+  This week's challenge for me was finding a plugin for Grasshopper that met my user needs. I wanted to start with form, but I didn’t want to give up on mechanical considerations. So I used ameba first, but I found it very difficult to find the balance between the two. Then I turned to lunchbox again. Focus more on morphological than mechanical considerations. This time I succeeded and it took me almost a week.
+ 
+ <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+ 
+---
+
+# Speculations #
+
+I hope that next week I can iterate on my design and bring it to life, from the on-screen design to the physical realization.
+
 
 
 # Report 2-week of 09/7/2023(week2)
-
 
 ### :star: summary: ###
 This week I reviewed **grasshopper and computational design** on Thursday class.
@@ -83,10 +147,6 @@ I used to do some structure topology optimization to design streamlined building
 
 <img width="400" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0a404eba9b5d07c0015bef1d03fb5e110d9359a7/Week1%20Photot/a27584c3bb8d5a0f6e4fde65c286eb54_raw.gif">
 
-# Reflection #
-+ analyse
-+ design conception
-+ computational design process
 
 # Speculations #
 
