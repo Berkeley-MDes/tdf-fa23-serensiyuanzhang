@@ -58,7 +58,7 @@ I'm very excited about this platform. I believe it represents a practical innova
 
 This week four members of our team have begun the final integration. We are transmitting signals from Photon to the Unity platform and have combined software and hardware to build our own demo. In addition to this, we have created a 3D prototype for our design and brought it to life through laser cutting.
 
-<img width="800" alt="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/1b612d0c956830fbdd361f749039162f657c64bc/week6_8/image015.png">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/2c61d525cc716e6d91b8fdf6bc7c6816aa7d0f60/week6_8/image015.png">
 
 # Process #
 
