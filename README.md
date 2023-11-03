@@ -1,5 +1,18 @@
 https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy4aniuMjwIA/viewform
 # Report 10-week of 11/2/2023(week2)
+This week I tried to **build my own knownledge set and link it to my agents"mini seren"**, during this experience, I have meet some problems and I finally solved it which msde me feel powerful.
+In the end, I achieved the goal I initially set out to accomplish. I built an agent that possesses knowledge of my TDF project, and it can provide answers to the interlocutor's questions in a more academic manner.
+# Process #
+In the process of building the knowledge set, I initially uploaded the complete project report. However, due to platform settings, my weekly reports were categorized by page numbers, which resulted in the construction of my knowledge set. As a result, my agent did not understand my corpus, leading to absurd and garbled responses during my conversations with it.
+However, through my classification and organization of the knowledge base, after two attempts, I was able to resolve this issue.
+# Reflection #
+Through this assignment, my understanding of agent-related knowledge has increased, and I have also learned more about the fundamental concepts of large models. However, regarding the ZeroWidth platform, I still believe that it could be designed to be more user-friendly from various aspects, including interface design.
+
+# Speculations #
+
+
+
+---
 
 # Report 9-week of 10/26/2023(week2)
 
