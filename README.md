@@ -60,38 +60,72 @@ I'm very excited about this platform. I believe it represents a practical innova
 
 # Report 6-week of 10/5/2023
 
-
-
-# Report 5-week of 09/28/2023
-
-This week I tried to **build my minime and design three experiments**to test the different parameters in ZeroWidth, during this experience, I have gained a deeper understanding of concepts related to tokens and prompt engineering in large models.
+This week, I attempted to build an engineering prototype following the Photon tutorial in order to bring our previously mentioned ideas to life and create a prototype.
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
 
 # Process #
-In the first experiment, I tried different prompts and observed the conversation results of the agent. I also experimented with various temperatures to understand how different prompts and parameters affect the outcomes.
+In the first experiment, I tried different code and observed the influence of my prototype. 
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
 
-
-In the second experiment, I experimented with different roles and, through testing the responses, observed the differences between the 'instruction' and 'user' roles as parameters. By changing the role, it's possible to alter the speaking habits and language style of the agent.
-
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
-
-
-In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
 
 
 
 # Reflection #
-Through the three experiments this week, I have deepened my understanding of concepts related to large models and gained a better understanding of the significance of prompts in large models. Prompt engineering holds great potential, and as designers, we should learn how to better utilize them. With advancements in tools, we can empower our designs.
+This week, I encountered many difficulties while running the code, but with the help of my previous experience, I was able to overcome them in the end.
 
 # Speculations #
-I'm very excited about this platform. I believe it represents a practical innovation in the application of natural language large models, and I'm looking forward to seeing it being used in our everyday lives as soon as possible.
+I really love our plan, and I hope we can bring it to life!
 
 ---
+
+
+
+# Report 5-week of 09/28/2023
+
+This week I tried to **photon2**to build a digital ecosystem.In this project, I choose Level 03-Axolotl. I choose this level because I have never met the hardware design before 
+and in this project I tried my best to use photon and particle platform to create a project. It is a challenge for me.
+
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+# Reflection #
+After a week's brainstorm, here is a description of our project:
+Welcome to the Build Your Garden project, set in a world where climate change is reshaping the environment we once knew. 
+Understanding human impact on our ecosystem is essential and urgent. We introduce a digital ecosystem designed to preserve plant collections and construct virtual gardens. Beyond providing an entertainment and meditative space, it also serves as an instructional tool. It documents how plants are affected by environmental disasters as well as showcases how plants adapt to changing conditions, demonstrating remarkable resilience and reminding us of the very essence of life.
+An essential interaction point within our digital ecosystem begins with this portable device. When encountering a plant, you can put the device near the plant and push its sensors into the ground. The incorporated sensors capture vital environmental data, such as sunlight and soil conditions. This data is then transmitted to and processed by a secondary board. In the prototype, we demonstrate the connection with the secondary Photon board connected to our Unity engine running on a laptop to highlight our imagined functionality. Ideally, this relay will be further integrated into a separate independent device, serving as another touchpoint. It will have an interactive visual interface that enables you to generate the exact plant you collect in a virtual garden and access its information.
+Through direct interaction with plants in real life and then revisiting them on a portable device with web-based data, you can explore various plant species, document changes in their appearance, and track variations in their growth conditions across time and in different locations.
+We aimed to address various challenges, including integrating environmental sensors, reading and transmitting sensor data between microcontrollers and web platforms, and developing a user-friendly visual interface that efficiently interprets the collected data to improve the overall user experience.
+Starting with building the initial sensor-embedded board, we tested the sensor functions and developed code to read real-time data. At the same time, we were trying out ways to establish a connection between the Photon board and the Unity-powered interface. After several iterations, we were able to grow plants in Unity when interacting with the physical sensors!
+For our project, we aim to enhance the capabilities of the first device by integrating a camera and additional environmental sensors. This will be accompanied by adopting an open-source plant classification algorithm. We also plan to incorporate multiple plant-specific touchpoints that allow users to monitor specific plants they favor and reflect plants' changes in virtual gardens. It would be meaningful if users could also visualize the condition of their garden's plants, whether they are flourishing or struggling, based on users' real-world location data. 
+We want to explore how the concept and design of the digital ecosystem can be mapped onto and establish communication with our natural ecosystem. This question/speculation seeks to help us better understand the environment we inhabit.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+
+
+---
+
 
 
 # Report 4-week of 09/21/2023
