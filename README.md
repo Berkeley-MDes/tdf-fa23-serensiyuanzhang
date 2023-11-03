@@ -21,7 +21,7 @@ In the first experiment, I tried different prompts and observed the conversation
 In the second experiment, I experimented with different roles and, through testing the responses, observed the differences between the 'instruction' and 'user' roles as parameters. By changing the role, it's possible to alter the speaking habits and language style of the agent.
 In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
 # Reflection #
-
+Through the three experiments this week, I have deepened my understanding of concepts related to large models and gained a better understanding of the significance of prompts in large models. Prompt engineering holds great potential, and as designers, we should learn how to better utilize them. With advancements in tools, we can empower our designs.
 
 # Speculations #
 I'm very excited about this platform. I believe it represents a practical innovation in the application of natural language large models, and I'm looking forward to seeing it being used in our everyday lives as soon as possible.
@@ -32,6 +32,8 @@ I'm very excited about this platform. I believe it represents a practical innova
 # Report 7-week of 10/12/2023(week2)
 
 # Report 6-week of 10/5/2023(week2)
+
+
 
 # Report 5-week of 09/28/2023(week2)
 
