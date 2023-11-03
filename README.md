@@ -58,7 +58,7 @@ I'm very excited about this platform. I believe it represents a practical innova
 
 This week four members of our team have begun the final integration. We are transmitting signals from Photon to the Unity platform and have combined software and hardware to build our own demo. In addition to this, we have created a 3D prototype for our design and brought it to life through laser cutting.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+<img width="800" alt="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/1b612d0c956830fbdd361f749039162f657c64bc/week6_8/image015.png">
 
 # Process #
 
@@ -86,8 +86,6 @@ In conclusion, the Build Your Garden project has been a remarkable journey, emph
 
 This week, the members of our group have started exploring different directions, and everyone has made various attempts in prototype construction and Unity integration.
 In the build Your Garden project, my primary role and personal contribution were centered around addressing the challenge of design concept, concept development, build workflow on photon, 3D modeling and laser cut the prototype. This challenge required a deep understanding of photon, unity and seamless integration between the physical world of plants and the digital ecosystem we were constructing.
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0021159844cd1546d465c65a64f89677b04a40de/week6_8/image012.png">
 
 
 # Reflection #
