@@ -56,7 +56,55 @@ I'm very excited about this platform. I believe it represents a practical innova
 
 # Report 8-week of 10/19/2023
 
+This week four members of our team have begun the final integration. We are transmitting signals from Photon to the Unity platform and have combined software and hardware to build our own demo. In addition to this, we have created a 3D prototype for our design and brought it to life through laser cutting.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+# Process #
+
+In this project, I made multiple attempts with Photon. Starting from the initial stage where I could only connect a small light bulb, I eventually progressed to the point where I could connect a light sensor and a humidity sensor, enabling data communication between the two boards. This process was quite lengthy and included numerous failed attempts. However, fortunately, I was able to achieve the end goal.Not only that, but we also attempted to integrate Photon with Unity, transmitting signals into Unity to achieve an augmented reality effect.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+
+# Reflection #
+1. Environmental Awareness: The project served as a powerful reminder of the urgency of addressing climate change and its impact on our environment. By building a digital ecosystem that showcases the resilience of plants and their ability to adapt to changing conditions, we hope to raise awareness about the importance of preserving our natural world.
+2. Interdisciplinary Collaboration: The project's success was heavily reliant on the collaboration of a diverse team, including designers, developers, and environmental scientists. This interdisciplinary approach was crucial in addressing the multifaceted challenges we encountered.
+3. The Power of Technology: The project showcased the potential of technology to bridge the gap between the physical and digital worlds. Our ability to interact with real plants and then revisit them in a virtual garden was a powerful demonstration of this capability.
+
+# Speculations #
+Looking ahead, I believe the Build Your Garden project holds immense potential for further growth and impact. Here are some speculations on its future:
+1. Wider Adoption: As technology continues to advance, I foresee a wider adoption of the digital ecosystem. It could become a valuable tool for educators, botanists, and nature enthusiasts, allowing them to monitor plant species and understand their adaptations.
+2. Community and Collaboration: The project could foster a sense of community and collaboration among users. They could share their virtual gardens and exchange insights about plant care and environmental changes, creating a social platform for environmental enthusiasts.
+3. Environmental Insights: The project's data collection capabilities could be harnessed for broader environmental insights. Researchers and policymakers might use the data to understand climate change impacts and adapt conservation strategies.
+In conclusion, the Build Your Garden project has been a remarkable journey, emphasizing the importance of preserving our natural world and the potential of technology to aid in this mission. It is my hope that this project will continue to flourish and inspire a greater understanding of the environment we inhabit, fostering a deeper connection between humanity and nature
+
+---
+
 # Report 7-week of 10/12/2023
+
+This week, the members of our group have started exploring different directions, and everyone has made various attempts in prototype construction and Unity integration.
+In the build Your Garden project, my primary role and personal contribution were centered around addressing the challenge of design concept, concept development, build workflow on photon, 3D modeling and laser cut the prototype. This challenge required a deep understanding of photon, unity and seamless integration between the physical world of plants and the digital ecosystem we were constructing.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+
+
+# Reflection #
+Although our work this week has made significant progress on various platforms like Photon and Unity, building a prototype has been challenging. We needed to integrate signals from all these platforms, and it took us a considerable amount of time.
+
+# Speculations #
+This week, our work has been quite busy, but it has been very fulfilling! Looking forward to seeing how our prototype turns out.
 
 # Report 6-week of 10/5/2023
 
