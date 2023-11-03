@@ -65,7 +65,7 @@ I'm very excited about this platform. I believe it represents a practical innova
 This week I tried to complete the design of my phone stand and tried to enhance my Grasshopper program to adjust the form of my phone stand. During this week, I learned how to 3D print and bring my conceptual ideas into practical realization.
 In the end, I adjusted my phone stand design based on the dimensions of my own phone and the angle and posture I use when viewing the phone screen. Additionally, by using Grasshopper plugins, I improved the aesthetics of my phone stand.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/b87ad145a48dddd9b63bf71c7b80ab83d1423ba9/week1_5/9.jpg">
 
 # Process #
 This week I developed my own grasshopper file based on the scale of my own phone and my own need. And then I used grasshopper plug-in Lunchbox to develop my design. Finally, I tried my best to print it out.
@@ -73,35 +73,37 @@ The first step is to develop the grasshopper file from the class and I made a Mi
 
 I choose the challenge level as 02-Platypusz. I think what was difficult for me in this task was not how to learn grasshopper, because I already had relevant experience with it during my undergraduate studies. The hard part is how to use plug-ins to optimize my designs. And use it to meet my user needs. So I chose this level of challenge, which is in the middle, not that easy and not that difficult.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/b87ad145a48dddd9b63bf71c7b80ab83d1423ba9/week1_5/3%20(2).png">
 
----
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
 
----
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/b87ad145a48dddd9b63bf71c7b80ab83d1423ba9/week1_5/4.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
 
----
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/b87ad145a48dddd9b63bf71c7b80ab83d1423ba9/week1_5/5.png">
+
+
 
 # Reflection #
  In this week, the challenge was how to 3D print the prototype of my design. At first, I tried the printer on the first floor, but unfortunately, the nozzle of this printer was broken, so that it could not print the material reasonably, which ultimately delayed the progress of my job. Cody provided me with some help, but the machine never worked very well.
  
- <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+ <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/b87ad145a48dddd9b63bf71c7b80ab83d1423ba9/week1_5/6.png">
 
----
+
 
  I thought I could no longer present it until I found some printers and untimaker on the second floor of Jacob, and completed its training, 
 successfully adjusted the printer's machine temperature, and spent 7 hours setting up my mobile phone holder. The prototype was printed. That is awesome!
  
  <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
 
----
+
 
 # Speculations #
 
 I hope to have more hands-on opportunities in the future to bring the concepts in my mind into real implementation.
+
+---
 
 
 # Report 3-week of 09/14/2023(week3)
@@ -114,20 +116,19 @@ From an aesthetic point of view, I tried another plug-in for grasshopper, LunchB
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/419154ee366e0bde435a8625ea0da7e6025fb778/week1_5/1.png">
 
----
+
 
 # Reflection #
   This week's challenge for me was finding a plugin for Grasshopper that met my user needs. I wanted to start with form, but I didn’t want to give up on mechanical considerations. So I used ameba first, but I found it very difficult to find the balance between the two. Then I turned to lunchbox again. Focus more on morphological than mechanical considerations. This time I succeeded and it took me almost a week.
  
  <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/419154ee366e0bde435a8625ea0da7e6025fb778/week1_5/2%20(3).png">
  
----
 
 # Speculations #
 
 I hope that next week I can iterate on my design and bring it to life, from the on-screen design to the physical realization.
 
-
+---
 
 # Report 2-week of 09/7/2023(week2)
 
@@ -148,6 +149,7 @@ I used to do some structure topology optimization to design streamlined building
 I believe that design cellphone stand with concerning about both function and form is important in industrial design and the design process I explored represents the computational design methodology could help us improve our design. Next week I plan to try some 3D printing, I really hope I can make the prototype out and explore the influence of material to design.
 
 ---
+
 # Report 1-week of 08/28/2023(week1)
 ### :star: summary: ###
 This week, I designed a cool phone stand made of wood with laser cutting. Check out all my progress photos.
