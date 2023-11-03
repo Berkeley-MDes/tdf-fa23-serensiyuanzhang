@@ -196,7 +196,6 @@ I choose the challenge level as 02-Platypusz. I think what was difficult for me 
  I thought I could no longer present it until I found some printers and untimaker on the second floor of Jacob, and completed its training, 
 successfully adjusted the printer's machine temperature, and spent 7 hours setting up my mobile phone holder. The prototype was printed. That is awesome!
  
- <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
 
 
 
