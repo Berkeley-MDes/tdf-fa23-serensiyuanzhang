@@ -1,5 +1,6 @@
 https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy4aniuMjwIA/viewform
-# Report 10-week of 11/2/2023(week10)
+
+# Report 10-week of 11/2/2023
 This week I tried to **build my own knownledge set and link it to my agents"mini seren"**, during this experience, I have meet some problems and I finally solved it which msde me feel powerful.
 In the end, I achieved the goal I initially set out to accomplish. I built an agent that possesses knowledge of my TDF project, and it can provide answers to the interlocutor's questions in a more academic manner.
 
@@ -20,7 +21,8 @@ By integrating with large models, the potential of agents seems almost limitless
 ---
 
 
-# Report 9-week of 10/26/2023(week9)
+
+# Report 9-week of 10/26/2023
 This week I tried to **build my minime and design three experiments**to test the different parameters in ZeroWidth, during this experience, I have gained a deeper understanding of concepts related to tokens and prompt engineering in large models.
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
@@ -49,18 +51,50 @@ Through the three experiments this week, I have deepened my understanding of con
 I'm very excited about this platform. I believe it represents a practical innovation in the application of natural language large models, and I'm looking forward to seeing it being used in our everyday lives as soon as possible.
 
 ---
-# Report 8-week of 10/19/2023(week8)
-
-# Report 7-week of 10/12/2023(week7)
-
-# Report 6-week of 10/5/2023(week6)
 
 
 
-# Report 5-week of 09/28/2023(week5)
+# Report 8-week of 10/19/2023
+
+# Report 7-week of 10/12/2023
+
+# Report 6-week of 10/5/2023
 
 
-# Report 4-week of 09/21/2023(week4)
+
+# Report 5-week of 09/28/2023
+
+This week I tried to **build my minime and design three experiments**to test the different parameters in ZeroWidth, during this experience, I have gained a deeper understanding of concepts related to tokens and prompt engineering in large models.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
+# Process #
+In the first experiment, I tried different prompts and observed the conversation results of the agent. I also experimented with various temperatures to understand how different prompts and parameters affect the outcomes.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+
+
+In the second experiment, I experimented with different roles and, through testing the responses, observed the differences between the 'instruction' and 'user' roles as parameters. By changing the role, it's possible to alter the speaking habits and language style of the agent.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+
+
+In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+
+
+
+# Reflection #
+Through the three experiments this week, I have deepened my understanding of concepts related to large models and gained a better understanding of the significance of prompts in large models. Prompt engineering holds great potential, and as designers, we should learn how to better utilize them. With advancements in tools, we can empower our designs.
+
+# Speculations #
+I'm very excited about this platform. I believe it represents a practical innovation in the application of natural language large models, and I'm looking forward to seeing it being used in our everyday lives as soon as possible.
+
+---
+
+
+# Report 4-week of 09/21/2023
 
 This week I tried to complete the design of my phone stand and tried to enhance my Grasshopper program to adjust the form of my phone stand. During this week, I learned how to 3D print and bring my conceptual ideas into practical realization.
 In the end, I adjusted my phone stand design based on the dimensions of my own phone and the angle and posture I use when viewing the phone screen. Additionally, by using Grasshopper plugins, I improved the aesthetics of my phone stand.
@@ -106,7 +140,8 @@ I hope to have more hands-on opportunities in the future to bring the concepts i
 ---
 
 
-# Report 3-week of 09/14/2023(week3)
+
+# Report 3-week of 09/14/2023
 
 This week at first I plan to use the grasshopper plug-in to improve my design for cellphone holder. Ameba, amoeba, Chinese transliteration is amoeba, so it is also called amoeba. It is a single-celled protozoa, made up of just one cell, that can change its body shape as needed. Xie Yimin Technology, a Chinese team led by Academician Xie Yimin, developed the topology optimization design software Ameba based on the bidirectional progressive structural optimization method (BESO) proposed by him. Users can apply mechanical and other boundary conditions to the initial design area according to design needs, and optimize it through software calculations. When solving, the design area will evolve into various shapes like an amoeba, and finally obtain a form with reasonable force transmission and bionics.However, after several attempts, I found that although the optimized mobile phone holder met the mechanical requirements, it was not beautiful and did 
 not meet my daily usage habits. So after two days of trying, I gave up on this plan.
@@ -130,7 +165,9 @@ I hope that next week I can iterate on my design and bring it to life, from the 
 
 ---
 
-# Report 2-week of 09/7/2023(week2)
+
+
+# Report 2-week of 09/7/2023
 
 ### :star: summary: ###
 This week I reviewed **grasshopper and computational design** on Thursday class.
@@ -150,7 +187,9 @@ I believe that design cellphone stand with concerning about both function and fo
 
 ---
 
-# Report 1-week of 08/28/2023(week1)
+
+
+# Report 1-week of 08/28/2023
 ### :star: summary: ###
 This week, I designed a cool phone stand made of wood with laser cutting. Check out all my progress photos.
 
