@@ -64,11 +64,8 @@ This week four members of our team have begun the final integration. We are tran
 
 In this project, I made multiple attempts with Photon. Starting from the initial stage where I could only connect a small light bulb, I eventually progressed to the point where I could connect a light sensor and a humidity sensor, enabling data communication between the two boards. This process was quite lengthy and included numerous failed attempts. However, fortunately, I was able to achieve the end goal.Not only that, but we also attempted to integrate Photon with Unity, transmitting signals into Unity to achieve an augmented reality effect.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0021159844cd1546d465c65a64f89677b04a40de/week6_8/image014.jpg">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
 
 
 # Reflection #
@@ -90,14 +87,7 @@ In conclusion, the Build Your Garden project has been a remarkable journey, emph
 This week, the members of our group have started exploring different directions, and everyone has made various attempts in prototype construction and Unity integration.
 In the build Your Garden project, my primary role and personal contribution were centered around addressing the challenge of design concept, concept development, build workflow on photon, 3D modeling and laser cut the prototype. This challenge required a deep understanding of photon, unity and seamless integration between the physical world of plants and the digital ecosystem we were constructing.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
-
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0021159844cd1546d465c65a64f89677b04a40de/week6_8/image012.png">
 
 
 # Reflection #
@@ -110,17 +100,12 @@ This week, our work has been quite busy, but it has been very fulfilling! Lookin
 
 This week, I attempted to build an engineering prototype following the Photon tutorial in order to bring our previously mentioned ideas to life and create a prototype.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0021159844cd1546d465c65a64f89677b04a40de/week6_8/image012.png">
 
 # Process #
 In the first experiment, I tried different code and observed the influence of my prototype. 
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
-
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/0021159844cd1546d465c65a64f89677b04a40de/week6_8/image013.jpg">
 
 
 # Reflection #
@@ -138,8 +123,6 @@ I really love our plan, and I hope we can bring it to life!
 This week I tried to **photon2**to build a digital ecosystem.In this project, I choose Level 03-Axolotl. I choose this level because I have never met the hardware design before 
 and in this project I tried my best to use photon and particle platform to create a project. It is a challenge for me.
 
-
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
 
 # Reflection #
 After a week's brainstorm, here is a description of our project:
