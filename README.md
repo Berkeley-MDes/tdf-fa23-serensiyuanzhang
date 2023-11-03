@@ -112,14 +112,14 @@ not meet my daily usage habits. So after two days of trying, I gave up on this p
 From an aesthetic point of view, I tried another plug-in for grasshopper, LunchBox. LunchBox is a plug-in for Grasshopper for exploring mathematical shapes, paneling, structures, and workflow. I mainly used these five button, Diamond Panels, Triangle Panels B, Skewed Quads, 3D Supershape, Diamond Grid to build my cellphone holder.
 
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/419154ee366e0bde435a8625ea0da7e6025fb778/week1_5/1.png">
 
 ---
 
 # Reflection #
   This week's challenge for me was finding a plugin for Grasshopper that met my user needs. I wanted to start with form, but I didn’t want to give up on mechanical considerations. So I used ameba first, but I found it very difficult to find the balance between the two. Then I turned to lunchbox again. Focus more on morphological than mechanical considerations. This time I succeeded and it took me almost a week.
  
- <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+ <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/419154ee366e0bde435a8625ea0da7e6025fb778/week1_5/2%20(3).png">
  
 ---
 
