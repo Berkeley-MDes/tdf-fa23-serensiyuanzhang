@@ -24,6 +24,7 @@ By integrating with large models, the potential of agents seems almost limitless
 This week I tried to **build my minime and design three experiments**to test the different parameters in ZeroWidth, during this experience, I have gained a deeper understanding of concepts related to tokens and prompt engineering in large models.
 
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
+
 # Process #
 In the first experiment, I tried different prompts and observed the conversation results of the agent. I also experimented with various temperatures to understand how different prompts and parameters affect the outcomes.
 
