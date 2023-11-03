@@ -1,5 +1,22 @@
 https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy4aniuMjwIA/viewform
-# Report 2-week of 09/6/2023(week2)
+# Report 10-week of 11/2/2023(week2)
+### [Week10 report](weekly-reports/Week1_2023_8_30.md)
+# Report 9-week of 10/26/2023(week2)
+### [Week9 report](weekly-reports/Week1_2023_8_30.md)
+# Report 8-week of 10/19/2023(week2)
+### [Week8 report](weekly-reports/Week1_2023_8_30.md)
+# Report 7-week of 10/12/2023(week2)
+### [Week7 report](weekly-reports/Week1_2023_8_30.md)
+# Report 6-week of 10/5/2023(week2)
+### [Week6 report](weekly-reports/Week1_2023_8_30.md)
+# Report 5-week of 09/28/2023(week2)
+### [Week5 report](weekly-reports/Week1_2023_8_30.md)
+# Report 4-week of 09/21/2023(week2)
+### [Week4 report](weekly-reports/Week1_2023_8_30.md)
+# Report 3-week of 09/14/2023(week2)
+### [Week3 report](weekly-reports/Week1_2023_8_30.md)
+
+# Report 2-week of 09/7/2023(week2)
 ### [Week2 report](weekly-reports/Week1_2023_8_30.md)
 ### :star: summary: ###
 This week I reviewed **grasshopper and computational design** on Thursday class.
