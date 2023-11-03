@@ -2,20 +2,32 @@ https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy
 # Report 10-week of 11/2/2023(week10)
 This week I tried to **build my own knownledge set and link it to my agents"mini seren"**, during this experience, I have meet some problems and I finally solved it which msde me feel powerful.
 In the end, I achieved the goal I initially set out to accomplish. I built an agent that possesses knowledge of my TDF project, and it can provide answers to the interlocutor's questions in a more academic manner.
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/a5f1a964b27e8d98c2e90e3f59a41dc73980c3c1/week9_10/7.jpg">
+
+---
 # Process #
 In the process of building the knowledge set, I initially uploaded the complete project report. However, due to platform settings, my weekly reports were categorized by page numbers, which resulted in the construction of my knowledge set. As a result, my agent did not understand my corpus, leading to absurd and garbled responses during my conversations with it.
 However, through my classification and organization of the knowledge base, after two attempts, I was able to resolve this issue.
+
+
+---
 # Reflection #
 Through this assignment, my understanding of agent-related knowledge has increased, and I have also learned more about the fundamental concepts of large models. However, regarding the ZeroWidth platform, I still believe that it could be designed to be more user-friendly from various aspects, including interface design.
 
 # Speculations #
 By integrating with large models, the potential of agents seems almost limitless. As mentioned in the paper 'Generative Agents: Interactive Simulacra of Human Behavior,' through the design of agents, we can even create a digital twin system that exists outside of human society. This makes me very excited!
 
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/main/week9_10/v2-10928bfbe837ae3cf6156158dda3ce87_b.jpg">
+
+---
+
 
 ---
 
 # Report 9-week of 10/26/2023(week9)
 This week I tried to **build my minime and design three experiments**to test the different parameters in ZeroWidth, during this experience, I have gained a deeper understanding of concepts related to tokens and prompt engineering in large models.
+
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/4.jpg">
 # Process #
 In the first experiment, I tried different prompts and observed the conversation results of the agent. I also experimented with various temperatures to understand how different prompts and parameters affect the outcomes.
@@ -30,6 +42,7 @@ In the second experiment, I experimented with different roles and, through testi
 ---
 
 In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
+
 <img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
 
 ---
