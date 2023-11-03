@@ -1,5 +1,5 @@
 https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy4aniuMjwIA/viewform
-# Report 10-week of 11/2/2023(week2)
+# Report 10-week of 11/2/2023(week10)
 This week I tried to **build my own knownledge set and link it to my agents"mini seren"**, during this experience, I have meet some problems and I finally solved it which msde me feel powerful.
 In the end, I achieved the goal I initially set out to accomplish. I built an agent that possesses knowledge of my TDF project, and it can provide answers to the interlocutor's questions in a more academic manner.
 # Process #
@@ -9,13 +9,24 @@ However, through my classification and organization of the knowledge base, after
 Through this assignment, my understanding of agent-related knowledge has increased, and I have also learned more about the fundamental concepts of large models. However, regarding the ZeroWidth platform, I still believe that it could be designed to be more user-friendly from various aspects, including interface design.
 
 # Speculations #
-
+By integrating with large models, the potential of agents seems almost limitless. As mentioned in the paper 'Generative Agents: Interactive Simulacra of Human Behavior,' through the design of agents, we can even create a digital twin system that exists outside of human society. This makes me very excited!
 
 
 ---
 
-# Report 9-week of 10/26/2023(week2)
+# Report 9-week of 10/26/2023(week9)
+This week I tried to **build my minime and design three experiments**to test the different parameters in ZeroWidth, during this experience, I have gained a deeper understanding of concepts related to tokens and prompt engineering in large models.
+# Process #
+In the first experiment, I tried different prompts and observed the conversation results of the agent. I also experimented with various temperatures to understand how different prompts and parameters affect the outcomes.
+In the second experiment, I experimented with different roles and, through testing the responses, observed the differences between the 'instruction' and 'user' roles as parameters. By changing the role, it's possible to alter the speaking habits and language style of the agent.
+In the third experiment, I experimented with different temperatures, and I found that the higher the value, the better the generated results.
+# Reflection #
 
+
+# Speculations #
+I'm very excited about this platform. I believe it represents a practical innovation in the application of natural language large models, and I'm looking forward to seeing it being used in our everyday lives as soon as possible.
+
+---
 # Report 8-week of 10/19/2023(week2)
 
 # Report 7-week of 10/12/2023(week2)
