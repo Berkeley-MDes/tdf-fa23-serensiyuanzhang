@@ -152,23 +152,27 @@ Starting with building the initial sensor-embedded board, we tested the sensor f
 For our project, we aim to enhance the capabilities of the first device by integrating a camera and additional environmental sensors. This will be accompanied by adopting an open-source plant classification algorithm. We also plan to incorporate multiple plant-specific touchpoints that allow users to monitor specific plants they favor and reflect plants' changes in virtual gardens. It would be meaningful if users could also visualize the condition of their garden's plants, whether they are flourishing or struggling, based on users' real-world location data. 
 We want to explore how the concept and design of the digital ecosystem can be mapped onto and establish communication with our natural ecosystem. This question/speculation seeks to help us better understand the environment we inhabit.
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image001.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image002.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image003.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image004.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image005.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image006.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/357dca6937e4f2dce02712c7add52dc52707c7a0/week9_10/1.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image007.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/6.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image008.png">
 
-<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/13159e48bfe35db6bbba82a33bcbd1fba6470301/week9_10/8.jpg">
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image009.png">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image010.png">
+
+<img width="800" alt="Measure the length of the phone" src="https://github.com/Berkeley-MDes/tdf-fa23-serensiyuanzhang/blob/4854bcfe7290e8dd5b3a7735947039d31dfa45e3/week6_8/image011.png">
 
 
 
